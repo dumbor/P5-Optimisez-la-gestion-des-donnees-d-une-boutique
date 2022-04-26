@@ -87,3 +87,14 @@ Le mail du tableau de liaisons :
  
 
 Cette fois-ci, vous avez toutes les cartes en main pour démarrer votre mission.
+
+
+Compétences évaluées
+
+🛠	Classifier différents types de données
+
+🛠	Gérer les erreurs et les incohérences présentes sur des données stockées
+
+🛠	Réaliser une analyse univariée pour interpréter des données
+
+
