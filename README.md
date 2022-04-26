@@ -1,3 +1,12 @@
+Compétences évaluées
+
+🛠	Classifier différents types de données
+
+🛠	Gérer les erreurs et les incohérences présentes sur des données stockées
+
+🛠	Réaliser une analyse univariée pour interpréter des données
+
+
 Scénario
 
 Aujourd’hui est un grand jour, vous commencez votre mission en tant que data analyst freelance chez BottleNeck, un marchand de vin très prestigieux. Votre manager sur cette mission (Laurent) vous accueille chaleureusement et vous propose de partager un petit café avec le reste de l’équipe du service Numérique. L’ambiance est bonne, et vous voilà déjà parfaitement intégré dans cette équipe détendue mais professionnelle.
@@ -87,14 +96,5 @@ Le mail du tableau de liaisons :
  
 
 Cette fois-ci, vous avez toutes les cartes en main pour démarrer votre mission.
-
-
-Compétences évaluées
-
-🛠	Classifier différents types de données
-
-🛠	Gérer les erreurs et les incohérences présentes sur des données stockées
-
-🛠	Réaliser une analyse univariée pour interpréter des données
 
 
